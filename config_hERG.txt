@@ -1,0 +1,8 @@
+receptor = hERG_receptor.pdbqt
+center_x = 79.11
+center_y = 68.57
+center_z = 78.47
+size_x = 25
+size_y = 25
+size_z = 25
+exhaustiveness = 16

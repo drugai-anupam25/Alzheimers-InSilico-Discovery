@@ -1,0 +1,11 @@
+receptor = Pgp_receptor.pdbqt
+
+center_x = 168.40
+center_y = 162.84
+center_z = 155.41
+
+size_x = 30
+size_y = 30
+size_z = 30
+
+exhaustiveness = 16

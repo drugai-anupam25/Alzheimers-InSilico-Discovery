@@ -1,0 +1,8 @@
+receptor = CYP3A4_receptor.pdbqt
+center_x = -15.49
+center_y = -21.94
+center_z = -11.06
+size_x = 25
+size_y = 25
+size_z = 25
+exhaustiveness = 16
