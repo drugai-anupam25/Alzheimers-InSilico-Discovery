@@ -1,0 +1,12 @@
+Name,SMILES,APOE4_Score
+DKP1_THP,C4CCOCC4[C@H]1c2[nH]c3ccccc3c2C[C@H]2C(=O)N3CCC[C@H]3C(=O)N21,-9.964
+Tadalafil_Ghost,NC(=O)CN1CC(=O)N2[C@H](c3ccc(F)cc3)c4[nH]c5ccccc5c4C[C@@H]2C1=O,-9.688
+DKP2_Arg112,c3nnn[nH]3CN1C(=O)[C@@H]2CCCN2C(=O)[C@@H]1Cc1c[nH]c2ccccc12,-9.546
+Tadalafil_Arg112,CN1CC(=O)N2[C@H](c3nnn[nH]3)c4[nH]c5ccccc5c4C[C@@H]2C1=O,-9.487
+DKP1_Ghost,CC(C)=C[C@H]1c2n(C(=O)CN)c3ccccc3c2C[C@H]2C(=O)N3CCC[C@H]3C(=O)N21,-9.326
+Carboline_Trojan,O=C(O)C1Cc2c([nH]c3ccccc23)C(c2ccccc2)N1,-9.306
+Tricyclic_Trojan,NC(C(=O)O)CNC(=O)Nc2c3c(nc4ccccc24)N(Cc5ccc(F)cc5)CC3,-9.245
+Tadalafil_THP,CN1CC(=O)N2[C@H](C3CCOCC3)c4[nH]c5ccccc5c4C[C@@H]2C1=O,-9.237
+DKP1_Arg112,c4nnn[nH]4[C@H]1c2[nH]c3ccccc3c2C[C@H]2C(=O)N3CCC[C@H]3C(=O)N21,-9.153
+DKP2_Ghost,NC(=O)CN1C(=O)[C@@H]2CCCN2C(=O)[C@@H]1Cc1c[nH]c2ccccc12,-9.055
+Carboline_Ghost,COC(=O)C1Cc2c([nH]c3ccccc23)C(c2ccccc2)N1C(=O)CN,-8.899
